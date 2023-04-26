@@ -1,1 +1,1 @@
-"# Markov-Mixing-Time" 
+# Markov-Mixing-Time
